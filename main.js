@@ -1,7 +1,7 @@
 const albums = {
   album1: {
     title: "Natural,Healthy",
-    cover: "/Images/Natural Healthy Album Art.jpg",
+    cover: "Images/Natural Healthy Album Art.jpg",
     archiveId: "721808",
     download_link:"https://archive.org/download/queasy-natural-healthy/Queasy%20-%20Natural-%20Healthy.zip",
     description: `The follow up to the group's debut 2022 "Shining Now" LP, "Natural, Healthy" see's the band solidify their lineup as a 3 piece after shuffling through multiple members throughout most of 2023. The EP showcases Queasy as a band of songwriters, each member taking the reigns as "Frontperson" almost equally over the tidy 6 song run. With elements of indie rock, 90's inspired alternative, shoegaze and even some breakbeat experimentation, the group has honed the sound displayed in their earlier work into an offering that is at once catchy, raw, heavy, and at times surprising.
@@ -23,7 +23,7 @@ const albums = {
   },
   album2: {
     title: "Fake Fruit",
-    cover: "/Images/Fake fruit Album Art.jpg",
+    cover: "Images/Fake fruit Album Art.jpg",
     archiveId: "721606",
     download_link:"https://archive.org/compress/queasy-fake-fruit-covers/formats=WAVE&file=/queasy-fake-fruit-covers.zip",
     description: "Album One description goes here. Credits etc.",
@@ -35,7 +35,7 @@ const albums = {
   },
   album3: {
     title: "Shining Now",
-    cover: "/Images/Shining Now Album Art.jpg",
+    cover: "Images/Shining Now Album Art.jpg",
     archiveId: "710106",
     download_link:"https://archive.org/compress/queasy-shining-now/formats=WAVE&file=/queasy-shining-now.zip",
     description: "Album One description goes here. Credits etc.",
@@ -55,7 +55,7 @@ const albums = {
   },
   album4: {
     title: "Self-Titled EP",
-    cover: "/Images/Self Titled Album Art.jpg",
+    cover: "Images/Self Titled Album Art.jpg",
     archiveId: "721808",
     description: "Album One description goes here. Credits etc.",
     tracks: [
